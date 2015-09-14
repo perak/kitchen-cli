@@ -6,6 +6,6 @@ Meteor Kitchen - Command Line Interface
 
 This repository will contain <a href="http://www.meteorkitchen.com" target="_blank">Meteor Kitchen CLI</a> source code.
 
-Comming soon. Cleaning up the code and writing docs...
+Coming soon. Cleaning up the code and writing docs...
 
 You can cheer for me by starring :star: this repository: a lot of stars == a lot of thanks
